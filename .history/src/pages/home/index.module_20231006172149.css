@@ -1,0 +1,7 @@
+.main {
+  display: flex;
+}
+.body {
+  padding: 80px;
+  gap: 80px;
+}

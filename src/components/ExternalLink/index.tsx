@@ -1,9 +1,12 @@
-import styles from "./index.module.css"
+import styles from "./index.module.css";
 
-export function ExternalLink(props: any){
-    return(
-        <div className={styles.externalLink}>
-          <a href={props.link} target="_blank">{props.title}</a>  
-        </div>
-        ) 
+export function ExternalLink(props: any) {
+  return (
+    <div className={styles.externalLink}>
+      <a href={props.link} target="_blank">
+        {props.title}
+        {props.icon}
+      </a>
+    </div>
+  );
 }

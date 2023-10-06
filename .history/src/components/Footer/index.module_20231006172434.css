@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+.socials {
+  display: flex;
+  gap: 20px;
+}
+.home span {
+  font-size: 24px;
+  font-weight: 700;
+}

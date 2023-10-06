@@ -1,12 +1,13 @@
-.externalLink{
-    border: 1px solid;
-    padding: 10.5px 16px;
-    border-radius: 8px;
-    width: fit-content;
-    display: flex;
-    font-size: 16px;
-    font-weight: 400;
+.externalLink {
+  border: 1px solid;
+  padding: 10.5px 16px;
+  border-radius: 8px;
+  width: fit-content;
+  display: flex;
+  font-size: 16px;
+  font-weight: 400;
 }
-.externalLink a{
-    color: black;
+.externalLink a {
+  color: black;
+  text-decoration: none;
 }

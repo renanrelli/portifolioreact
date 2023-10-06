@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "Bikcraft",
+    "linguagem": "HTML/CSS/JavaScript",
+    "imagem": "../../assets/bikcraft.png",
+    "alt": "Imagem do site Bikcraft",
+    "descricao": "Projeto de uma loja de bicicleta em HTML/CSS e um pouco de JavaScript.",
+    "linkGithub": "https://github.com/renanrelli/bikcraft"
+  },
+  {
+    "id": 2,
+    "titulo": "Doação",
+    "linguagem": "Bootstrap/TypeScript/JavaScript",
+    "imagem": "../../assets/doacao.png",
+    "alt": "Imagem do crud do projeto Doação",
+    "descricao": "Projeto pequeno de gestão de recebimentos e entregas de doações",
+    "linkGithub": "https://github.com/renanrelli/doacao"
+  }
+]

@@ -1,0 +1,8 @@
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+.socials {
+  display: flex;
+  gap: 20px;
+}
