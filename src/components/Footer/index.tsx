@@ -18,7 +18,7 @@ export function Footer() {
             link="https://www.linkedin.com/in/renan-sbruzzi-relli-1162391b7/"
             title="Linkedin"
           />
-          <ExternalLink link="https://github.com/renanrelli/" title="Github" />
+          <ExternalLink link="https://github.com/renanrelli/" title="GitHub" />
         </div>
         <div className={styles.backToTop}>
           <ButtonScrollTop

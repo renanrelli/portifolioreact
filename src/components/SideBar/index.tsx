@@ -20,7 +20,7 @@ export function SideBar() {
               link="https://www.linkedin.com/in/renan-sbruzzi-relli-1162391b7/"
               title="Linkedin"
             />
-            <ExternalLink link="https://instagram.com/" title="Instagram" />
+            <ExternalLink link="https://instagram.com/" title="GitHub" />
           </div>
         </div>
         <div className={styles.experience}>
@@ -37,7 +37,7 @@ export function SideBar() {
           />
         </div>
         <div className={styles.download}>
-          <ExternalLink link="#" title="Baixar currículo" />
+          <ExternalLink link="/" title="Baixar currículo" />
         </div>
       </aside>
     </>
