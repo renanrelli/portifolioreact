@@ -14,7 +14,7 @@
     "linguagem": "Bootstrap/TypeScript/JavaScript",
     "imagem": "../../assets/doacao.png",
     "alt": "Imagem do crud do projeto Doação",
-    "descricao": "Projeto pequeno de gestão de recebimentos e entregas de doações",
+    "descricao": "Pequeno projeto de gestão de recebimentos e entregas de doações",
     "linkGithub": "https://github.com/renanrelli/doacao"
   }
 ]

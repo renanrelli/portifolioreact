@@ -9,7 +9,7 @@ export function Footer() {
     <div className={styles.body}>
       <div className={styles.content}>
         <div className={styles.home}>
-          <Link className={styles.link} href={"../home"}>
+          <Link className={styles.link} href={"/"}>
             <span className={styles.homeTitle}>Renan Relli</span>
           </Link>
         </div>
@@ -24,7 +24,6 @@ export function Footer() {
           <ButtonScrollTop
             icon={<AiOutlineArrowUp width={8} height={12} />}
             title={"Voltar para o topo"}
-            href={"#"}
           />
         </div>
       </div>

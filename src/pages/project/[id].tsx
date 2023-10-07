@@ -18,7 +18,7 @@ export default function Project() {
         <InternalLink
           icon={<AiOutlineArrowLeft />}
           title={"Voltar para o início"}
-          href={"../home"}
+          href={"/"}
         />
         <h1 className={styles.title}>{project?.titulo}</h1>
         <h2 className={styles.language}>{project?.linguagem}</h2>
